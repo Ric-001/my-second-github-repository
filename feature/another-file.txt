@@ -1,5 +1,7 @@
-Just another file created in the feature-1 branch
+This line was replaced in Feature-2 branch
 
 This file was modified locally
 
 Another one file modified locally as required in lecture 123.
+
+This line eas added in Feature-2 branch
