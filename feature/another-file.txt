@@ -4,6 +4,6 @@ This file was modified locally
 
 Another one file modified locally as required in lecture 123.
 
-This line eas added in Feature-2 branch
+This line was added in Feature-2 branch
 
-Anothe modification made locally in the Feature-2 branch
+Another modification made locally in the Feature-2 branch
